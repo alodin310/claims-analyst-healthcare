@@ -16,11 +16,4 @@
 
 ## Reflection
 
-[One paragraph (4-6 sentences). Answer all of these:
-
-1. Why is this posting relevant to this class?
-2. Which specific coursework skills does it require?
-3. What would you build to prove you can do this job?
-4. What 2-3 other similar roles could this same project transfer to?
-
-Write naturally. Don't list the questions; weave them into one paragraph.]
+For this project, I found a claims data analyst job posting nearby in Long Beach that is perfect. This posting is relevant to the class because it explicitly asks for SQL querying experience, and the position includes analyzing and parsing large datasets, finding trends, and communicating claims insights to other departments. The specific coursework skills required include SQL querying (joins, CTEs, window functions), working with large datasets (e.g. Campus Bites & Basket Craft), and data storytelling and drawing insights. To prove I can do this job, I would curate dashboards to show claims trends over time through various metrics, woven into a presentation similar to real-world data analysis work — using a sample claims dataset transformed into a clean schema with dbt and loaded into a database. This same project could transfer to similar roles like Business Intelligence Analyst and Junior Data Engineer.
