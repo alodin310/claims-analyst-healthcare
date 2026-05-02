@@ -18,10 +18,16 @@
 | [Healthcare Claims Analytics & Denial Management](wiki/02-claims-analytics-denial-management.md) | Denial rate benchmarks (~11.8% in 2024), root causes (bad data, prior auth, coding), financial cost of denials, AI-driven denial trends, CMS/T-MSIS reporting requirements, analytical framework for denial management |
 | [Claims Data Analyst: Role, Skills & Responsibilities](wiki/03-claims-data-analyst-role.md) | Role archetypes across managed care settings, core responsibilities (ETL, cost decomposition, risk scoring, utilization reports), technical stack (SQL, Python, SAS, Snowflake, Tableau), T-MSIS overview, what differentiates strong candidates |
 
+### Synthesis
+| Page | Summary |
+|---|---|
+| [Medicaid Policy Environment & Analytical Implications](wiki/04-policy-environment-and-analytical-implications.md) | Synthesis of how three 2025–2026 policy shifts (redeterminations, H.R. 1, CMS reporting rules) reshape Molina's analytical priorities — state segmentation, acuity recalibration, regulatory MCR reconciliation |
+
 ### Cross-References
 - Molina MCR ↔ denial patterns: [Overview](wiki/01-molina-healthcare-overview.md) ↔ [Claims Analytics](wiki/02-claims-analytics-denial-management.md)
 - Analyst skill requirements ↔ what those skills actually produce: [Analyst Role](wiki/03-claims-data-analyst-role.md) ↔ [Claims Analytics](wiki/02-claims-analytics-denial-management.md)
 - Medicaid policy context ↔ T-MSIS data requirements: [Overview](wiki/01-molina-healthcare-overview.md) ↔ [Analyst Role](wiki/03-claims-data-analyst-role.md)
+- Policy shifts ↔ analytical priorities: [Policy & Implications](wiki/04-policy-environment-and-analytical-implications.md) ↔ all three other pages
 
 ---
 

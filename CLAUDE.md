@@ -90,27 +90,48 @@ The `knowledge/` folder is a Claude Code-curated knowledge base about the health
 - `knowledge/wiki/` — Claude Code-generated synthesis wiki pages. At least 3 pages: an overview, a key entities/themes page, and one synthesis page.
 - `knowledge/index.md` — Index of all wiki pages with one-line summaries.
 
-### How to Query the Knowledge Base
+### Knowledge Base Schema
 
-To query the knowledge base, open Claude Code in this repo and ask a question. Claude Code should:
+Three operations govern how this knowledge base is maintained and used:
 
-1. Read `knowledge/index.md` first to understand what wiki pages exist.
-2. Read the relevant wiki page(s) from `knowledge/wiki/` to answer the question from synthesized knowledge.
-3. Fall back to raw sources in `knowledge/raw/` if the wiki pages don't fully answer the question.
-4. Cite which wiki page or raw source the answer comes from.
+#### Ingest
+When a new source lands in `knowledge/raw/`:
+1. Read the new file and identify which domain theme(s) it covers (company financials, claims analytics, analyst role, regulatory).
+2. Update the relevant wiki page(s) in `knowledge/wiki/` to synthesize the new information — add a new section or expand an existing one, with a citation back to the raw file.
+3. Add a row to the appropriate table in `knowledge/index.md` (both the Raw Sources section and any cross-reference updates).
+4. Commit with message: `knowledge: ingest [short description of source]`.
+
+#### Query
+When asked a question about healthcare claims analytics, Molina Healthcare, or the Claims Data Analyst role:
+1. Read `knowledge/index.md` first — identify which wiki page(s) are relevant.
+2. Read those wiki page(s) to produce a synthesized answer with citations.
+3. Only open raw files in `knowledge/raw/` if the wiki page doesn't fully answer the question or if direct quotes/data are needed.
+4. Always cite: "per [wiki page or raw filename]" at the end of each answer.
+
+#### Lint
+Periodically (or when the corpus has grown significantly), scan the knowledge base for quality issues:
+1. **Contradictions** — do any wiki pages make conflicting claims about MCR thresholds, denial rates, or role requirements? Flag and resolve using the most recent source.
+2. **Stale claims** — financial figures (MCR, premium revenue, membership counts) are time-sensitive. Flag anything older than 2 quarters as potentially stale.
+3. **Orphan pages** — wiki pages not linked from `knowledge/index.md` or not cross-referenced by any other page.
+4. **Missing cross-references** — if two wiki pages cover related topics but don't link to each other, add the link.
+5. Commit lint fixes with message: `knowledge: lint [what was fixed]`.
+
+---
+
+### How to Query the Knowledge Base (Quick Reference)
 
 Example queries:
 - "What does my knowledge base say about healthcare claims denial rates?"
 - "What are the key regulatory requirements affecting claims processing at Molina Healthcare?"
 - "What trends in managed care does my knowledge base cover?"
+- "What technical skills does the Molina Analyst, Data role require?"
 
 ### How to Update the Knowledge Base
 
 When adding new raw sources:
 1. Save the file to `knowledge/raw/` with a descriptive filename.
-2. Update `knowledge/index.md` to reflect the new source.
-3. Update or create relevant wiki pages in `knowledge/wiki/` to synthesize the new information with existing knowledge.
-4. Commit with a message like `knowledge: add [source name]`.
+2. Run the **Ingest** operation above.
+3. Commit with a message like `knowledge: ingest [source name]`.
 
 ---
 
