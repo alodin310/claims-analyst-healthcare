@@ -1,0 +1,660 @@
+Source: https://www.franklin.edu/career-guide/medical-records-specialists/what-do-healthcare-data-analysts-do
+
+Best Colleges
+
+Colleges Near Me
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingBusinessBusiness AdministrationCISCodingCommunicationComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal Justice AdministrationCybersecurityEducation & TeachingElementary Education & TeachingEntrepreneurshipFinanceFinancial PlanningHealth InformationHealthcareHealthcare ManagementHigh School Education & TeachingHomeland SecurityHuman Resources ManagementInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityLaw EnforcementManagementMarketingMedia DesignMiddle School Education & TeachingNursing (RN-BSN & BSN)PsychologyPublic AdministrationPublic RelationsPublic SafetySecondary Education & TeachingSocial SciencesSocial ServicesSoftware DeveloperSoftware EngineeringSpecial Education Teaching & Intervention SpecialistSport ManagementSupply ChainTechnologyUser Experience & Design (UX)Web Development
+
+Online Colleges
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingBusinessBusiness AdministrationCISCodingCommunicationComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal Justice AdministrationCybersecurityEducation & TeachingElementary Education & TeachingEntrepreneurshipFinanceFinancial PlanningHealth InformationHealthcareHealthcare ManagementHigh School Education & TeachingHomeland SecurityHuman Resources ManagementInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityLaw EnforcementManagementMarketingMedia DesignMiddle School Education & TeachingNursing (RN-BSN & BSN)PsychologyPublic AdministrationPublic RelationsPublic SafetySecondary Education & TeachingSocial SciencesSocial ServicesSoftware DeveloperSoftware EngineeringSpecial Education Teaching & Intervention SpecialistSport ManagementSupply ChainTechnologyUser Experience & Design (UX)Web Development
+
+Best Degrees
+
+Associate Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingBusinessBusiness AdministrationCodingCommunicationsComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityFinancial ManagementHealth ServicesHealthcareInformation SciencesInformation TechnologyInformation Technology SecurityLaw EnforcementManagementTechnology
+
+Online Programs by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+AccountingBusinessBusiness AdministrationCodingCommunicationsComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityFinancial ManagementHealth ServicesHealthcareInformation SciencesInformation TechnologyInformation Technology SecurityLaw EnforcementManagementTechnology
+
+Bachelor's Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingBusinessBusiness AdministrationCISCodingCommunicationComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal Justice AdministrationCybersecurityEducation & TeachingElementary Education & TeachingEntrepreneurshipFinanceFinancial PlanningHealth InformationHealthcareHealthcare ManagementHigh School Education & TeachingHomeland SecurityHuman Resources ManagementInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityLaw EnforcementManagementMarketingMedia DesignMiddle School Education & TeachingNursing (RN-BSN & BSN)PsychologyPublic AdministrationPublic RelationsPublic SafetySecondary Education & TeachingSocial SciencesSocial ServicesSoftware DeveloperSoftware EngineeringSpecial Education Teaching & Intervention SpecialistSport ManagementSupply ChainTechnologyUser Experience & Design (UX)Web Development
+
+Online Programs by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+AccountingBusinessBusiness AdministrationCISCodingCommunicationComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal Justice AdministrationCybersecurityEducation & TeachingElementary Education & TeachingEntrepreneurshipFinanceFinancial PlanningHealth InformationHealthcareHealthcare ManagementHigh School Education & TeachingHomeland SecurityHuman Resources ManagementInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityLaw EnforcementManagementMarketingMedia DesignMiddle School Education & TeachingNursing (RN-BSN & BSN)PsychologyPublic AdministrationPublic RelationsPublic SafetySecondary Education & TeachingSocial SciencesSocial ServicesSoftware DeveloperSoftware EngineeringSpecial Education Teaching & Intervention SpecialistSport ManagementSupply ChainTechnologyUser Experience & Design (UX)Web Development
+
+Master's Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingAnalyticsBusinessBusiness AnalyticsBusiness PsychologyCISCodingComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityData AnalyticsData ScienceEducationHealth InformaticsHealthcareHealthcare AdministrationHuman ResourcesInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityInstructional DesignLaw EnforcementMBAMSNMSN Nursing AdministrationMSN-FNP (Family Nurse Practitioner)ManagementMarketingPublic AdministrationSocial ServicesSoftware DeveloperSoftware EngineeringTechnology
+
+Online Programs by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+AccountingAnalyticsBusinessBusiness AnalyticsBusiness PsychologyCISCodingComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityData AnalyticsData ScienceEducationHealth InformaticsHealthcareHealthcare AdministrationHuman ResourcesInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityInstructional DesignLaw EnforcementMBAMSNMSN Nursing AdministrationMSN-FNP (Family Nurse Practitioner)ManagementMarketingPublic AdministrationSocial ServicesSoftware DeveloperSoftware EngineeringTechnology
+
+Doctoral Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+DBA & Business AdministrationDHA & Healthcare AdministrationEd.D. & EducationInstructional DesignOrganizational Leadership
+
+Online Programs by Location
+
+#}
+
+
+AlabamaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+DBA & Business AdministrationDHA & Healthcare AdministrationEd.D. & EducationInstructional DesignOrganizational Leadership
+
+Affordable Colleges
+
+Colleges Near Me
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Online Colleges
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Affordable Degrees
+
+Associate Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingBusinessBusiness AdministrationCodingCommunicationsComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityFinancial ManagementHealth ServicesHealthcareInformation SciencesInformation TechnologyInformation Technology SecurityLaw EnforcementManagementTechnology
+
+Online Programs by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+AccountingBusinessBusiness AdministrationCodingCommunicationsComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityFinancial ManagementHealth ServicesHealthcareInformation SciencesInformation TechnologyInformation Technology SecurityLaw EnforcementManagementTechnology
+
+Bachelor's Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingBusinessBusiness AdministrationCISCodingCommunicationComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal Justice AdministrationCybersecurityEducation & TeachingElementary Education & TeachingEntrepreneurshipFinanceFinancial PlanningHealth InformationHealthcareHealthcare ManagementHigh School Education & TeachingHomeland SecurityHuman Resources ManagementInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityLaw EnforcementManagementMarketingMedia DesignMiddle School Education & TeachingNursing (RN-BSN & BSN)PsychologyPublic AdministrationPublic RelationsPublic SafetySecondary Education & TeachingSocial SciencesSocial ServicesSoftware DeveloperSoftware EngineeringSpecial Education Teaching & Intervention SpecialistSport ManagementSupply ChainTechnologyUser Experience & Design (UX)Web Development
+
+Online Programs by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+AccountingBusinessBusiness AdministrationCISCodingCommunicationComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal Justice AdministrationCybersecurityEducation & TeachingElementary Education & TeachingEntrepreneurshipFinanceFinancial PlanningHealth InformationHealthcareHealthcare ManagementHigh School Education & TeachingHomeland SecurityHuman Resources ManagementInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityLaw EnforcementManagementMarketingMedia DesignMiddle School Education & TeachingNursing (RN-BSN & BSN)PsychologyPublic AdministrationPublic RelationsPublic SafetySecondary Education & TeachingSocial SciencesSocial ServicesSoftware DeveloperSoftware EngineeringSpecial Education Teaching & Intervention SpecialistSport ManagementSupply ChainTechnologyUser Experience & Design (UX)Web Development
+
+Master's Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+AccountingAnalyticsBusinessBusiness AnalyticsBusiness PsychologyCISCodingComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityData AnalyticsData ScienceEducationHealth InformaticsHealthcareHealthcare AdministrationHuman ResourcesInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityInstructional DesignLaw EnforcementMBAMSNMSN Nursing AdministrationMSN-FNP (Family Nurse Practitioner)ManagementMarketingPublic AdministrationSocial ServicesSoftware DeveloperSoftware EngineeringTechnology
+
+Online Programs by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+AccountingAnalyticsBusinessBusiness AnalyticsBusiness PsychologyCISCodingComputer ForensicsComputer ProgrammingComputer ScienceComputer SecurityCriminal JusticeCybersecurityData AnalyticsData ScienceEducationHealth InformaticsHealthcareHealthcare AdministrationHuman ResourcesInformation SciencesInformation SystemsInformation TechnologyInformation Technology SecurityInstructional DesignLaw EnforcementMBAMSNMSN Nursing AdministrationMSN-FNP (Family Nurse Practitioner)ManagementMarketingPublic AdministrationSocial ServicesSoftware DeveloperSoftware EngineeringTechnology
+
+Doctoral Degrees
+
+Find by Location
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Program Area
+
+DBA & Business AdministrationDHA & Healthcare AdministrationEd.D. & EducationInstructional DesignOrganizational Leadership
+
+Online Programs by Location
+
+#}
+
+
+AlabamaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Find by Online Program Area
+
+DBA & Business AdministrationDHA & Healthcare AdministrationEd.D. & EducationInstructional DesignOrganizational Leadership
+
+Accredited Colleges
+
+Colleges Near Me
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Online Colleges
+
+AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaOhioOklahomaOregonPennsylvaniaRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Career Information
+
+Accountants and AuditorsAdministrative Services ManagersAdvertising and Promotions ManagersBroadcast Announcers and Radio Disc JockeysBudget AnalystsBusiness Operations SpecialistsBuyers and Purchasing AgentsCareer/Technical Education TeachersChief ExecutivesChild and School Social WorkersClinical and Counseling PsychologistsCompensation and Benefits ManagersCompensation and Job Analysis SpecialistsCompliance OfficersComputer and Information Research ScientistsComputer and Information Systems ManagersComputer Network ArchitectsComputer Network Support SpecialistsComputer ProgrammersComputer Systems AnalystsComputer User Support SpecialistsCounselorsCredit AnalystsCredit CounselorsData ScientistsDatabase AdministratorsDatabase ArchitectsEmergency Management DirectorsExercise PhysiologistsFacilities ManagersFinancial and Investment AnalystsFinancial ExaminersFinancial ManagersFinancial Risk SpecialistsFinancial Services Sales AgentsFinancial SpecialistsFirst-Line Supervisors of Firefighting and Prevention WorkersFundraisersFundraising ManagersGeneral and Operations ManagersGuidance and Career CounselorsHealth Education SpecialistsHealth Information Technologists and Medical RegistrarsHealthcare Social Workers [VIEW ALL](https://www.franklin.edu/career-guide)
+
+- [Degrees](https://www.franklin.edu/degrees)
+- [Online Degrees](https://www.franklin.edu/degrees/online)
+- [Admissions](https://www.franklin.edu/admissions)
+- [Tuition & Financial Aid](https://www.franklin.edu/tuition-financial-aid)
+- [Transferring Credit](https://www.franklin.edu/transferring-credit)
+- [The Franklin Experience](https://www.franklin.edu/franklin-experience)
+
+## Request Information
+
+- STEP 1
+- SUBMIT
+
+What type of program are you seeking?
+
+\-\- Select Program Type --AssociateBachelor'sCombined Bachelor's & Master'sMaster'sCertificateDoctorateNon-Degree SeekingPost BaccalaureateCollege Credit Plus/Pre-College (HS Student)
+
+What is your program of interest?
+
+\-\- Select Program --
+
+Microcredential
+
+\-\- Select Microcredential --
+
+Specialization
+
+None
+
+Do you have an associate degree or diploma in nursing?
+
+\-\- Select Status --YesNo
+
+Nursing License Status
+
+\-\- Select Status --I have a current RN licenseMy license is pendingMy license is suspended or expiredI do not have an RN license
+
+A clear and unencumbered nursing license is required for this program. Please resolve the issue with your license and return to inquire at that time. In the interim, we welcome you to select an alternate academic program.
+
+
+A clear and unencumbered nursing license is required to enter this program. We welcome you to select an alternate academic program.
+
+
+What is your highest level of education?
+
+\-\- Select Highest Education --Currently pursuing a high school diploma or GEDHave a high school diploma or GEDHave or currently pursuing Associate'sCurrently pursuing Bachelor's at an institution other than FranklinHave Bachelor'sHave or currently pursuing Master'sHave or currently pursuing Doctorate
+
+Where did you receive (or are currently pursuing) your Associate's Degree?
+
+- Search
+- Browse
+
+\-\- Select Country --My country is not listedUnited States of America"
+AlbaniaAlgeriaAnguillaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBermudaBoliviaBosnia and HerzegovinaBotswanaBrazilBulgariaBurkina FasoCameroonCanadaChinaColombiaCongoCroatiaCubaCuracaoDemocratic Republic of CongoDenmarkDominicaDominican RepublicEcuadorEgyptEnglandEritreaEstoniaEthiopiaFranceGabonGambiaGermanyGhanaGrenadaGuatemalaGuinea, West AfricaGuyanaHaitiHungaryIndiaIranIraqIrelandIsraelItalyIvory Coast (Cote d'Ivoire)JamaicaJapanJordanKenyaKyrgyzstanLebanonLesothoLiberiaLithuaniaLuxembourgMacedoniaMalawiMalaysiaMaltaMauritaniaMexicoMoldovaMongoliaMontserratNamibia, AfricaNepalNetherlandsNew ZealandNigeriaNorwayOmanPakistanPalestinePanamaPeruPhilippinesPolandPuerto RicoQatarRepublic of CyprusRepublic of GeorgiaRomaniaRussiaRwandaSaint Kitts and NevisSaint LuciaSaudi ArabiaScotlandSenegalSerbiaSingaporeSlovakiaSouth AfricaSouth KoreaSpainSri LankaSt. LuciaSudanSwedenSwitzerlandSyriaTaiwan, R.O.C.TanzaniaThailandTogoTrinidadTunisiaTurkeyTurks and Caicos IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnknownUzbekistanVenezuelaVietnamYemenZambiaZimbabwe
+
+\-\- Select State --
+
+\-\- Select City --
+
+\-\- Select Institution --
+
+First Name
+
+Last Name
+
+Primary Email
+
+Primary Phone
+
+Select the state where you live
+
+\-\- Select State --AlabamaAlaskaAmerican SamoaArizonaArkansasArmed Forces AmericaCaliforniaColoradoConnecticutDelawareDistrict Of ColumbiaFederated States of MicronesiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarshall IslandsMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPalauPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahVermontVirgin IslandsVirginiaWashingtonWest VirginiaWisconsinWyoming
+
+Zip Code
+
+I am not a U.S. citizen or Permanent Resident
+
+Intended U.S. Immigration Status
+
+\-\- Select Intended Status --Immigrant (Asylee, refugee, DACA, undocumented, etc.)Non-Immigrant (Student, worker, dependent visa, etc.)None, I will be studying online from outside the U.S.
+
+Immigration Status:
+
+\-\- Select Immigration Status --A1A2A3B2E1E2F1F2G1H1BH4J1J2K1L1L2P1P2P3P4R1TDTNTPS
+
+Based on your inquiry, it appears you are seeking an F-1 visa for an undergraduate or doctoral program. At this time, Franklin University cannot sponsor F-1 visas for these program levels.
+
+
+Step 1 of 2
+
+Get Started >< BackNext >Submit
+
+In submitting my contact information, I understand that I will receive phone calls, text messages and email on behalf of Franklin University, including some through AI. I may opt out of these communications at any time.
+
+
+Your privacy is important to us. [Privacy Policy](https://www.franklin.edu/about-us/policy-information/privacy-statement)
+
+Demographic Information
+
+First Name
+
+Last Name
+
+Email Address
+
+phone
+
+Inquiry State
+
+AAABAEAKALAPARASAZBCCACOCTCZDCDEFLFMGAGUHIIAIDILINKSKYLAMAMBMDMEMHMIMNMOMPMSMTNBNCNDNENHNJNLNMNSNTNUNVNYOHOKONORPAPEPRPWQCRISCSDSKTNTXUTVAVIVTWAWIWVWYXXYT
+
+Country of citizenship
+
+AfghanistanAland IslandsAlbaniaAlgeriaAndorraAngolaAnguillaAntigua and BarbudaArgentinaArmeniaArubaAshmore and Cartier IslandsAustraliaAustriaAzerbaijanBahamas, TheBahrainBangladeshBarbadosBassas Da IndiaBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius, and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCayman IslandsCentral African RepublicChadChileChinaChristmas IslandClipperton IslandCocos Islands (Keeling Islands)ColombiaComorosCongo (Brazzaville)Congo (Kinshasa)Cook IslandsCoral Sea IslandsCosta RicaCote D'IvoireCroatiaCubaCuracaoCyprusCzech RepublicDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaEuropa IslandFalkland Islands (Islas Malvinas)Faroe IslandsFederated States of MicronesiaFijiFinlandForeign/UnknownFranceFrench GuianaFrench PolynesiaFrench Southern and Antarctic LandsGabonGambia, TheGeorgiaGermanyGhanaGibraltarGlorioso IslandsGreeceGreenlandGrenadaGuadeloupeGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHondurasHong Kong S.A.R.HungaryIcelandIndiaIndonesiaIranIraqIrelandIsraelItalyJamaicaJan MayenJapanJerseyJordanJuan De Nova IslandKazakhstanKenyaKiribatiKorea, NorthKorea, SouthKosovoKuwaitKyrgyzstanLaosLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacau S.A.R.Macedonia, Republic of NorthMadagascarMalawiMalaysiaMaldivesMaliMaltaMan, Isle ofMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorwayOmanPakistanPalau, the Pacific Islands ofPalestinePanamaPapua New GuineaParaguayPeruPhilippinesPitcairn IslandsPolandPortugalQatarReunionRomaniaRussiaRwandaSaint BarthelemySaint HelenaSaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSpratly IslandsSri LankaSudanSurinameSvalbardSwedenSwitzerlandSyriaTaiwanTajikistanTanzaniaThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTromelin IslandTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVatican CityVenezuelaVietnamWallis and Futuna IslandsWestern SaharaYemenZambiaZimbabwe
+
+Visa Type
+
+Previous School Information
+
+School external ID
+
+School Name
+
+Highest Education
+
+Inquiry Program Information
+
+Inquiry Start Term
+
+Fall 1996Fall 1997Fall 1998Fall 1999Fall 2000Fall 2001Fall 2002Fall 2003Fall 2004Fall 2005Fall 2006Fall 2007Fall 2008Fall 2009Fall 2010Fall 2011Fall 2012Fall 2013Fall 2014Fall 2015Fall 2016Fall 2017Fall 2018Fall 2019Fall 2020Fall 2021Fall 2022Fall 2023Fall 2024Fall 2025Fall 2026Fall 2027Fall 2028Fall 2029Fall 2030Fall 2031Fall 2032Fall 2033Fall 2034Fall 2035Fall 2036Spring '81Spring '82Spring '83Spring '84Spring '85Spring '86Spring '87Spring '88Spring '89Spring '90Spring '91Spring '92Spring '93Spring '94Spring '95Spring 2015Spring 2016Spring 2017Spring 2018Spring 2019Spring 2020Spring 2021Spring 2022Spring 2023Spring 2024Spring 2025Spring 2026Spring 2027Spring 2028Spring 2029Spring 2030Spring 2031Spring 2032Spring 2033Spring 2034Spring 2035Spring 2036Summer '80Summer '81Summer '82Summer '83Summer '84Summer '85Summer '86Summer '87Summer '88Summer '89Summer '90Summer '91Summer '92Summer '93Summer '94Summer '95Summer 1996Summer 1997Summer 1998Summer 1999Summer 2000Summer 2001Summer 2002Summer 2003Summer 2004Summer 2005Summer 2006Summer 2007Summer 2008Summer 2009Summer 2010Summer 2011Summer 2012Summer 2013Summer 2014Summer 2015Summer 2016Summer 2017Summer 2018Summer 2019Summer 2020Summer 2021Summer 2022Summer 2023Summer 2024Summer 2025Summer 2026Summer 2027Summer 2028Summer 2029Summer 2030Summer 2031Summer 2032Summer 2033Summer 2034Summer 2035Summer 2036Winter '80Winter '81Winter '82Winter '83Winter '84Winter '85Winter '86Winter '87Winter '88Winter '89Winter '90Winter '91Winter '92Winter '93Winter '94Winter '95Winter '96Winter 1997Winter 1998Winter 1999Winter 2000Winter 2001Winter 2002Winter 2003Winter 2004Winter 2005Winter 2006Winter 2007Winter 2008Winter 2009Winter 2010Winter 2011Winter 2012Winter 2013Winter 2014
+
+Inquiry Academic Level
+
+ASCTDRGRMCUG
+
+Degree Type
+
+AssociateBachelor'sCertificateDoctorateMaster'sMicrocredentialNon-degree seekingPost Baccalaureate
+
+Student Type
+
+ARNGCCACCONCCPEARMYF22GLBLINTMCMILOIPRSN
+
+academic program code
+
+ACCTAACCTBACCTMACCTM.STEMACHPBADACALYTBAMGTBAPS.MBPSYMBSAD.AASBSADABSADBBSADDBSADMBSADM.HCBSADM.STEMBSANCBSANMBSFRBBUSNCCCGRNCCLMCCP.NCCUGNCDEFCCGOVCCJADACJADBCJADB.C.CRJUCJADMCJMCCLOUDBCOCGRCOCUGCOMM.MCOMMACOMMBCOMMB.C.COMMCOMPACOMPBCOMPMCOMPSCRJUMCYSCACYSCBCYSCB.C.CYSCCYSCMDATACDATAMEDLD.MEDLDM.PLEDSTBEDUABEDUASBEDUBEDUCDEDUMBEDUPBEDUPEBEINVBEMGUCENTUCEXSCBEXSCMFMGTAFMGTBFNPCFPLNBFRACAFRACBHCA.BHCA.DHCA.MHCM.BHEAPBHESRAHIM.BHINFMHRM.BHRM.MHRMB.C.HRMIDL.DIDLD.DIDMCIDPTMIDTMIMD.BINSYBINSYMINSYSINVMIBINVMPBINVPBITECAITECBITECB.C.ITECITECMITPM.AASMAGPCMCHPBMCM.MMEDACMGMTBMGSCBMICRO.ACCTMICRO.DRMICRO.GRMICRO.UGMKTGBMNECMPMHCMSN.AGPMSN.FNPMSN.NMSN.NAMSN.NEMSN.PMHNURSDNURSD.AGPNURSD.FNPNURSD.PMHNURSGOSCMBPHARMCPMGTCPREPBPSL.MPSMT.AASPSMTBPSMTB.C.PUADPSYCBPSYCB.C.PSYCPSYCMPUADBPUADMPUBHBRADT.AASSOSCBSPECMSPECNSPEDRSPEDUSPLNCSPMGBSURG.AASSURGCUNDEBUXGDBWEBDB
+
+Inquiry Specialization
+
+4ACCT4BPSY4BUAN4CINT4CYSC4DATA4EDU4ETEC4FINA4HC4HCA4HCM4HED4HIM4HINF4HR4IDL4IT4ITMG4LEAD4LTEC4MGMT4MKTG4MTH4OLM4OPEX4OPSY4PK124PUAD4SOFTACCTACCTNACCTSACCTTACHLDAGPAPCMAPFEATHABCIBIOBMKCBPREBSADBUSBUSNCARTSCCACHEMCMMCOMMCOMPCOMPECOUNCPREDCOMEBUSECHLDECIMPECMKTEDUABEDUMBEDUPEBEFITEINVBELARTELECEMKTENGLFAFINAFINFOFMGTFNPFPGERTHCHCMHISTHONHRMHSAMILARTIMATHINSPINSURINTBMISCIEISOSTJOURLARTLEIALSBIOMATHMCHLDMETMEXEPMEXSCMGMTMISMISCMISYMKTGMKTNGMMNANPNSCIEOLMOLMMPCMTPERFPLAWPMHPMTAUPOSCPSMTREXPSBUSSCIESOCLSOFTESOSTSPMSSCIETECHTECHMWEBZACCTZAPLDZBLAWZBPSYZBUANZCASZCEPHZCGSZCIHEZCJZCK12ZCLSZCOCHZCRANZCRSCZCSIZCYGRZENTZFINZFINAZHCZHCOMZHEDZHEDUZHONZHRZHRCZITZK12ZLEADZLEADZMISZMKTGZNPOZOLMZOPEXZPK12ZPMGTZRMIAZSCZSTCMZTDEVZTECH
+
+Specialization
+
+_**Micro credential field**_
+
+_**Micro credential field 2**_
+
+Military Affiliation
+
+YesNo
+
+Partnership Code
+
+110CC25SDAACOCAARPABSPABSPSADHTHADSAEPAHIMAAICUOALCA2ALLCAAMAANFASHCCASHTHASMG2ASMGLASNAASNA2ASPRATEFSATESATLHSAUAAUANGAVITAAVUAVUGBBBSEBBBSMBBSE2BBSM2BCBSCBEFSBEFS2BFHBFH2BOBEBOBFBULULCAHCARMXCBEALCBJCBJ2CBJMMCBUSCCACPCCAPPCCATSCCDPSCCEALCCK12CCLMGCCMHCCOCCCONCCPALCCSOCCSO2CCSOHCDPSCDPSDCELNCHEALCHSCHS2CLECLIPSCLRCCCMMEDCMSFSCMSSDCMUCNCCNC2COAAACOASDCODELCODUBCOIMPCOORGCOPCCORG2COTACOTA2COTA3COTALCRAACREEKCREK2CSXTDACOCDAWSNDFSDTCCDUBCCDYSF2DYSSDEBSEBSSTEBSUBEDA10EDA20EDAPPEDASTEDCOREDCULEDF10EFCUEFCU2EGCCEMBMEMPEMPTESCCESSENEUBAF22FCCSFCOHSFCOS2FEDEXFEDXGFMCFRDTFRKLNFRKT2FRKTWFXFGTFZLROGCCCGMGRCTYGUEDUGWCM2GWCMHGWCOHHBANHBETHCMBAHFFHLANHNBHNBELHOUCCHSCHAHSHSHWELLIECCILIINMHCINOVAINSFCINSTRINTAGINTAUIVYDRJAGTJAOC2JAOCOJAZZKTGHNKTGN2LAMRLCCCLEARNLEEMSLERN2LIBINLOEBLOEB2MACS2MACSAMCBSMCCCMCHTHMDCE2MDCELMILMILESMOCOMORPCMOTORMSEALNABANANGUNBMBANCR15NCR20NDCNEENNEWBNFBP2NFBPANFSNFS2NHLTHNMBA2NTOWNNURS1NWCHNWMEDNWSLSNWULOACCOCTAOCTA2ODRCODRC2ODRCFODRF2ODYS2OFDAOFDA2OFDF2OFDFMOHDYSOHEALOHHTHOHIOXOHPELOHULOPERSOPFPFOPLR2OPLRAOPRS2OPRS3ORBI2ORBISOSLOSL2PHLTHPIQCCPNCPONEHPPUPRHT2PRMHTPRSNPSEGPSEG2PTIVQUTMHROOTSAGESCFC2SCFCSSCHAMSEGTCSERSSERS2SIHKSINUNSJSMSJSMGSLLLCSOEPDSSCCCSSMHHST1STAISTAI2STRSSTUPOSUF1SUOISWCNSWTCSYNSTAKNTARCCTCHRATCNTCN2TDSTCTEPTEXAUTIDE2TIDEHTOPCATRYCCUCCCUPSUSATUWIRTVMEDVOPCVOPC2WACOCWFEWFEDGWFEKOWHIJWHTC2WHTCSWORWORTHWPCUWSBWSBMUWUSMWVILLXUSMZOTS
+
+Marketing Fields
+
+Inquiry Source
+
+Inquiry Alias
+
+Inquiry Destination
+
+MTC ID
+
+**Inquiry Invalid Lead - Check to see if can be a bit?**
+
+**Inquiry Invalid Phone - Check to see if can be a bit?**
+
+**Inquiry Invalid email - Check to see if can be a bit?**
+
+Inquiry LV Score
+
+Inquiry LV Notes
+
+Inquiry Submission Time
+
+Inquiry Submission Date
+
+Inquiry Lead Score
+
+Inquiry Behavioral Score
+
+Inquiry Demographic Score
+
+Inquiry Score Details
+
+Inquiry Cookie ID
+
+Inquiry Cookie ID2
+
+Inquiry Escore
+
+Inquiry Source Platform
+
+Inquiry Source Campaign
+
+Submit
+
+## Page Navigation
+
+- [Overview](https://www.franklin.edu/career-guide/medical-records-specialists/what-do-healthcare-data-analysts-do#nav-overview)
+- [Industries](https://www.franklin.edu/career-guide/medical-records-specialists/what-do-healthcare-data-analysts-do#nav-industries)
+- [Skills](https://www.franklin.edu/career-guide/medical-records-specialists/what-do-healthcare-data-analysts-do#nav-skills)
+- [Postings](https://www.franklin.edu/career-guide/medical-records-specialists/what-do-healthcare-data-analysts-do#nav-postings)
+- [Additional Links](https://www.franklin.edu/career-guide/medical-records-specialists/what-do-healthcare-data-analysts-do#nav-additional-links)
+- [More Occupations](https://www.franklin.edu/career-guide/medical-records-specialists/what-do-healthcare-data-analysts-do#nav-all-occupations)
+
+## Request Info
+
+# What Do Healthcare Data Analysts Do?
+
+* * *
+
+Wondering what the job is really like for healthcare data analysts?
+
+You've come to the right place.
+
+Keep reading to find detailed information about what healthcare data analysts do, including the type of work they are tasked with on a daily basis, industries in which they work,
+and the specific skills needed for a successful career.
+
+* * *
+
+## Healthcare Data Analysts Overview & Description
+
+Let's get started with the basics about healthcare data analysts by taking a look at a simple description and popular job titles.
+
+Healthcare Data Analysts compile, process, and maintain medical records of hospital and clinic patients in a manner consistent with medical, administrative, ethical, legal, and regulatory requirements of the healthcare system. Classify medical and healthcare concepts, including diagnosis, procedures, medical services, and equipment, into the healthcare industry’s numerical coding system. Includes medical coders.
+
+### Popular Job Titles For Healthcare Data Analysts
+
+#### Sample of Reported Job Titles
+
+- Medical Billing Specialists
+- Medical Billers
+- Medical Records Clerks
+- Medical Records Specialists
+- Inpatient Coders
+- Medical Coders
+- Coders
+- Clinical Documentation Specialists
+- Medical Records Technicians
+- Medical Records Coordinators
+- Medical Billers/Coders
+- Coding Specialists
+
+Read on for insight into the industries where the highest concentration of jobs for healthcare data analysts can be found.
+
+* * *
+
+## Best Industries for Healthcare Data Analysts
+
+#### Healthcare Data Analysts Jobs By Industry
+
+- General Medical and Surgical Hospitals: **20.3%**
+- Offices of Physicians: **19.2%**
+- Management of Companies and Enterprises: **9.2%**
+- Nursing Care Facilities (Skilled Nursing Facilities): **5.2%**
+- Education and Hospitals (Local Government): **4.4%**
+- Outpatient Care Centers: **4.2%**
+- Other: **37.5%**
+
+When it comes to jobs in the United States, the largest single category of healthcare data analysts can be found working in the General Medical and Surgical Hospitals sector. In 2023, about 20.3% of all jobs for healthcare data analysts were found there.
+
+Other top industries by percentage include
+Offices of Physicians (19.2%), Management of Companies and Enterprises (9.2%), Nursing Care Facilities (Skilled Nursing Facilities) (5.2%), Education and Hospitals (Local Government) (4.4%) and Outpatient Care Centers (4.2%).
+
+* * *
+
+## Top Online College For Working Adults
+
+Franklin University is a top choice for adults who need to balance school with busy lives. Founded in 1902 in Columbus, Ohio, Franklin's main focus has been
+serving adult students and tailoring education to fit their needs. Nonprofit and accredited by the Higher Learning Commission (hlcommission.org/800.621.7440), Franklin offers more than 50 affordable
+bachelor's, master's, and doctoral programs — all available 100% online.
+
+[Request Info](https://www.franklin.edu/info/default) [Visit Website](https://www.franklin.edu/)
+
+### Degree Options for Healthcare Data Analysts
+
+M.S. in Health Informatics
+
+[VIEW PROGRAM](https://www.franklin.edu/degrees/masters/health-informatics)
+
+Turn patient data into knowledge that improves lives with Franklin’s M.S. in Health Informatics. Finish your master's online in as few as 12 months.
+
+- **Class Type:** 100% online
+- **Months To Complete:** 12
+- **Placement Tests:** GMAT/GRE not required for admission
+
+Medical Assisting Certificate
+
+[VIEW PROGRAM](https://www.franklin.edu/microcredentials-certificates/undergraduate-certificates/medical-assisting)
+
+Earn a Medical Assisting Certificate 100% online in as few as 8 months and qualify for national certification exams.
+
+- **Class Type:** Online coursework
+- **Cost Per Credit:** $398
+- **Months To Complete:** 8
+
+* * *
+
+## What Do Healthcare Data Analysts Do on a Daily Basis?
+
+So you have a high-level understanding of what healthcare data analysts do and the types of industries in which they work - but what do they really do each day?
+
+A great way to understand the type of work healthcare data analysts do is to examine actual job postings and focus on the specific skills that employers are seeking.
+That will help paint a clearer picture of the tasks that healthcare data analysts tackle each day.
+
+Continue reading for a breakdown of specialized skills found in job postings for healthcare data analysts, as well as common skills - interpersonal qualities and attributes - that
+can help you thrive in the workplace.
+
+### In-Demand Skills for Today's Healthcare Data Analysts  _Based on 69,484 job postings_
+
+#### Top 5 Specialized Skills for Healthcare Data Analysts
+
+| Skills | Postings | % of Total Postings |
+| --- | --- | --- |
+| Medical Records | 34,298 | 49% |
+| Billing | 30,990 | 45% |
+| ICD Coding (ICD-9/ICD-10) | 22,455 | 32% |
+| Medical Billing | 18,748 | 27% |
+| CPT Coding | 18,636 | 27% |
+
+#### Top 5 Common Skills for Healthcare Data Analysts
+
+| Skills | Postings | % of Total Postings |
+| --- | --- | --- |
+| Communication | 22,349 | 32% |
+| Management | 15,604 | 22% |
+| Detail Oriented | 14,905 | 21% |
+| Customer Service | 14,326 | 21% |
+| Research | 11,319 | 16% |
+
+Based on 69,484 job postings related to healthcare data analysts, medical records was the top specialized skill sought by employers, with 49% of all postings looking for that skillset. Skills for billing, icd coding (icd-9/icd-10), medical billing, cpt coding and medical terminology were also highly sought.
+
+As for common skills, communication was the most desired skill found in job postings for
+healthcare data analysts, followed by management, detail oriented, customer service, research and collections.
+
+All Specialized Skills Sought By Employers of Healthcare Data Analysts
+
+| Skill | Postings | % of Total Postings |
+| --- | --- | --- |
+| Medical Records | 34,298 | 49% |
+| Billing | 30,990 | 45% |
+| ICD Coding (ICD-9/ICD-10) | 22,455 | 32% |
+| Medical Billing | 18,748 | 27% |
+| CPT Coding | 18,636 | 27% |
+| Medical Terminology | 18,245 | 26% |
+| Electronic Medical Record | 14,447 | 21% |
+| Medical Coding | 14,109 | 20% |
+| Auditing | 11,944 | 17% |
+| Medicare | 10,992 | 16% |
+| Health Information Management | 9,445 | 14% |
+| Anatomy | 8,684 | 12% |
+| Healthcare Common Procedure Coding Systems | 8,307 | 12% |
+| Medicaid | 8,191 | 12% |
+| Physiology | 8,167 | 12% |
+| Data Entry | 8,034 | 12% |
+| Revenue Cycle Management | 7,814 | 11% |
+| Accounts Receivable | 7,399 | 11% |
+| Clinical Documentation | 7,264 | 10% |
+| Procedure Codes | 5,670 | 8% |
+
+All Common Skills Sought By Employers of Healthcare Data Analysts
+
+| Skill | Postings | % of Total Postings |
+| --- | --- | --- |
+| Communication | 22,349 | 32% |
+| Management | 15,604 | 22% |
+| Detail Oriented | 14,905 | 21% |
+| Customer Service | 14,326 | 21% |
+| Research | 11,319 | 16% |
+| Collections | 10,044 | 14% |
+| Microsoft Excel | 9,445 | 14% |
+| Writing | 8,246 | 12% |
+| Microsoft Office | 8,023 | 12% |
+| Operations | 8,021 | 12% |
+| Computer Literacy | 7,470 | 11% |
+| Organizational Skills | 7,348 | 11% |
+| Multitasking | 7,327 | 11% |
+| Problem Solving | 6,931 | 10% |
+| Interpersonal Communications | 6,057 | 9% |
+| Clerical Works | 6,008 | 9% |
+| Filing | 6,002 | 9% |
+| Leadership | 6,001 | 9% |
+| Verbal Communication Skills | 5,317 | 8% |
+| Ethical Standards And Conduct | 5,026 | 7% |
+
+* * *
+
+## Most In-Demand Jobs for Healthcare Data Analysts
+
+#### Top 5 Posted Job Titles
+
+| Job Title | Postings | % of Total Postings |
+| --- | --- | --- |
+| Medical Billing Specialists | 16,827 | 17.6% |
+| Medical Billers | 15,649 | 16.4% |
+| Medical Records Clerks | 8,534 | 8.9% |
+| Medical Records Specialists | 8,110 | 8.5% |
+| Inpatient Coders | 4,967 | 5.2% |
+
+According to job postings that were published between September 2022 and August 2023, the top job sought by employers was medical billing specialists, with 5,832 unique job postings. Medical billers were second, with 3,737 postings, followed by medical records clerks, medical records specialists and inpatient coders.
+
+
+Expand the section below to see unique job postings for all occupations related to healthcare data analysts.
+
+All Posted Job Titles
+
+| Job Title | Postings | % of Total Postings |
+| --- | --- | --- |
+| Medical Billing Specialists | 16,827 | 17.6% |
+| Medical Billers | 15,649 | 16.4% |
+| Medical Records Clerks | 8,534 | 8.9% |
+| Medical Records Specialists | 8,110 | 8.5% |
+| Inpatient Coders | 4,967 | 5.2% |
+| Medical Coders | 5,245 | 5.5% |
+| Coders | 3,993 | 4.2% |
+| Clinical Documentation Specialists | 4,695 | 4.9% |
+| Medical Records Technicians | 2,669 | 2.8% |
+| Medical Records Coordinators | 2,547 | 2.7% |
+| Medical Billers/Coders | 4,068 | 4.3% |
+| Coding Specialists | 2,932 | 3.1% |
+| Outpatient Coders | 2,728 | 2.9% |
+| Pro Fee Coders | 1,580 | 1.7% |
+| Medical Staff Coordinators | 1,722 | 1.8% |
+| ROI Medical Records Specialists | 2,107 | 2.2% |
+| Certified Coders | 1,854 | 1.9% |
+| Medical Billers/Collectors | 1,762 | 1.8% |
+| Medical Billing Clerks | 1,510 | 1.6% |
+| Medical Billing and Coding Specialists | 1,856 | 1.9% |
+
+* * *
+
+## Additional Links
+
+Ready to dig deeper into career information for healthcare data analysts? Visit our other pages focused on salary and education for healthcare data analysts.
+
+[How much do healthcare data analysts make?](https://www.franklin.edu/career-guide/medical-records-specialists/how-much-salary-do-healthcare-data-analysts-make)
+
+[Healthcare Data Analysts: How do you become one?](https://www.franklin.edu/career-guide/medical-records-specialists/how-to-become-healthcare-data-analysts)
+
+* * *
+
+## All Occupations
+
+The Best Adult Colleges and Careers Guide has compiled data for dozens of in-demand jobs. Explore our full catalog of occupation data by visiting the link below.
+
+[View Other Occupations](https://www.franklin.edu/career-guide)
