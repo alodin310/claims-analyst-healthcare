@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: dim_provider
+    description: One row per unique Medicare provider (NPI)
+    columns:
+      - name: npi
+        description: National Provider Identifier (primary key)
+        data_tests:
+          - not_null
+          - unique
+
+  - name: dim_location
+    description: Distinct provider locations (state, city, zip, RUCA)
+    columns:
+      - name: state
+        description: State abbreviation
+        data_tests:
+          - not_null
+
+  - name: dim_service
+    description: Distinct HCPCS service codes and descriptions
+    columns:
+      - name: hcpcs_code
+        description: HCPCS procedure code (primary key)
+        data_tests:
+          - not_null
+          - unique
+
+  - name: fct_provider_services
+    description: Fact table — one row per provider per HCPCS service with payment metrics
+    columns:
+      - name: npi
+        description: Foreign key to dim_provider
+        data_tests:
+          - not_null
+      - name: hcpcs_code
+        description: Foreign key to dim_service
+        data_tests:
+          - not_null
+      - name: total_services
+        description: Total services rendered — must be positive
+        data_tests:
+          - not_null

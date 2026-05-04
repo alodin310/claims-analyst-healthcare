@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: CLAIMS_HEALTHCARE
+    schema: RAW
+    tables:
+      - name: CMS_MEDICARE_PROVIDERS
+        description: CMS Medicare fee-for-service provider and service utilization data

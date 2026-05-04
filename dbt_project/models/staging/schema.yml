@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: stg_cms_providers
+    description: Cleaned and renamed CMS Medicare provider service utilization data
+    columns:
+      - name: npi
+        description: National Provider Identifier
+        data_tests:
+          - not_null
+      - name: hcpcs_code
+        description: Healthcare Common Procedure Coding System code
+        data_tests:
+          - not_null
+      - name: state
+        description: Provider state abbreviation
+      - name: total_services
+        description: Total number of services rendered
