@@ -40,3 +40,4 @@ dbt_project/logs/
 # Logs
 *.log
 logs/
+docs/slides_preview.html
